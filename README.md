@@ -4,7 +4,7 @@ Below is a screenshot of the output of the Deliverable 1 requirements. For this 
 ![LinkedImage](Resources/Replace_the_9th_grade_reading_and_math_scores_at_Thomas_High_School_with_NaN.png)
 ![LinkedImage](Resources/District_Summary_DataFrame.png)
 
-Deliverable 2 Requirements
+# Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by repeating the school district analysis and updating the following required metrics in the PyCitySchools_Challenge.ipynb file:
 
 The district summary DataFrame (3 pt)
