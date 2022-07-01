@@ -34,16 +34,13 @@ The scores by school size (3 pt)
 ![LinkedImage](Resources/Scores_by_school_size.png)
 
 The scores by school type (3 pt)
+
 ![LinkedImage](Resources/Scores_by_school_type.png)
 
-Deliverable 3 Instructions
-For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
+# Deliverable 3 Instructions
+This part of the challenge presents a report that summarizes the updated analysis and compares it with the results from the module.
 
-The analysis should contain the following:
-
-Overview of the school district analysis: Explain the purpose of this analysis.
-
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+The purpose of this analysis was to replace all 9th grade math and reading scores from Thomas High Schools with NaNs and to repeat the analysis where the 9th grade testing data was not included in the calculations.
 
 How is the district summary affected?
 How is the school summary affected?
