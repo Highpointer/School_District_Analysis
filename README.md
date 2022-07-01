@@ -34,5 +34,4 @@ The scores by school size (3 pt)
 ![LinkedImage](Resources/Scores_by_school_size.png)
 
 The scores by school type (3 pt)
-
 ![LinkedImage](Resources/Scores_by_school_type.png)
