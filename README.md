@@ -11,7 +11,7 @@ The district summary DataFrame (3 pt)
 ![LinkedImage](Resources/District_Summary_DataFrame.png)
 
 The school summary DataFrame (3 pt)
-![LinkedImage](Resources/District_Summary_DataFrame.png)
+![LinkedImage](Resources/School_Summary_DataFrame.png)
 
 The top 5 performing schools, based on the overall passing rate (2 pt)
 ![LinkedImage](Resources/Top_5_performing_schools_based_on_overall_passing_rate.png)
