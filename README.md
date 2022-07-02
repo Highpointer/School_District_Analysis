@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# School_District_Analysis
-Module 4 challenge
+## Module 4 Challenge
 =======
 # School District Analysis
 Below is a screenshot of the output of the Deliverable 1 requirements. For this analysis, the 9th grade math and reading scores at Thomas High School have been replaced with NaNs. The screenshot shows the code used to perform this analysis with explanatory comments to earn full credit of 50 points.
