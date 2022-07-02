@@ -42,32 +42,8 @@ This part of the challenge presents a report that summarizes the updated analysi
 
 The purpose of this analysis was to replace all 9th grade math and reading scores from Thomas High Schools with NaNs and to repeat the analysis where the 9th grade testing data was not included in the calculations.
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Before the 9th grades scores for Thomas High School were removed from the data analysis, average math and reading scores for the school, rounded to two decimal places, were 83.42 and 83.85, respectively. After removing the 9th grade scores, the averages became 83.35 and 83.90, respectively. This would appear that the changes in score averages were not significant after removing the 9th grade data. An actual statistical analysis (beyond the scope of this module) would likely confirm this to be true. 
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (7 points)
-The written analysis has the following structure, organization, and formatting:
+Since the changes to the overall results for Thomas High School were apparently not significant, it did not affect the school's performance relative to other schools.
 
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+Removing the 9th grade scores from Thomas High School from the entire district analysis did not significantly change the overall results. This includes the district summary and the school summary. Also, it did not affect math and reading scores by grade, scores by school spending, scores by school size, and scores by school type.
