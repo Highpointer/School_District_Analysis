@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 # School_District_Analysis
 Module 4 challenge
-This is a new line
-
-![LinkedImage](".\resources\Replace the 9th grade reading and math scores at Thomas High School with NaN.png")
-![LinkedImage](.\resources\District Summary Data Frame.png)
 =======
 # School District Analysis
 Below is a screenshot of the output of the Deliverable 1 requirements. For this analysis, the 9th grade math and reading scores at Thomas High School have been replaced with NaNs. The screenshot shows the code used to perform this analysis with explanatory comments to earn full credit of 50 points.
@@ -55,4 +51,5 @@ Before the 9th grades scores for Thomas High School were removed from the data a
 Since the changes to the overall results for Thomas High School were apparently not significant, it did not affect the school's performance relative to other schools.
 
 Removing the 9th grade scores from Thomas High School from the entire district analysis did not significantly change the overall results. This includes the district summary and the school summary. Also, it did not affect math and reading scores by grade, scores by school spending, scores by school size, and scores by school type.
->>>>>>> 5592896f6f83790a7b208963685a1dadef80f93a
+
+The number of 9th grade scores from Thomas High School was 461, out of a total of 39,170 scores overall, over all four grades in the 15 district schools. This number of 461 was less than 1.2% of all the overall scores. Thus, removing these 461 scores out of 39,170 did not appreciably change the overall results in all categories. 
